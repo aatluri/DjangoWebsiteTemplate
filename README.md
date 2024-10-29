@@ -23,7 +23,7 @@ The purpose of this documentation is to help somebody who wants to build a websi
     * app
     * app/mysite
     * app/manage.py
-    *You can refer to [Django Docs](#djangodoc) to see how to create django projects and apps etc...*
+    * *You can refer to [Django Docs](#djangodoc) to see how to create django projects and apps etc...*
 
 
 
