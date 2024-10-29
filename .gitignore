@@ -129,6 +129,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+adarshatluriwebsiteenv/
 
 # Spyder project settings
 .spyderproject
