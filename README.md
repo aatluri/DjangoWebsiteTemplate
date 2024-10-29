@@ -14,11 +14,11 @@ The purpose of this documentation is to help somebody who wants to build a websi
 2. Install Git. Most machines come with git inbuilt but if its not, you will need to install it. [Install Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 3. Clone this repository on your computer at your desired location
 4. Python Virtual Environment
-    Open Terminal(on mac) and navigate to the directory where you cloned the project.
-    * Replace "placeholder" in the above commands with the name of your choice *
-    Create a python virtual environment by running the command `python3 -m venv placeholder`
-    Run the following command: `source placeholder/bin/activate`
-    This will prepend that directory to your PATH, so that running python will invoke the environment’s Python interpreter and you can run installed scripts without having to use their full path
+    * Open Terminal(on mac) and navigate to the directory where you cloned the project.
+    * *Replace "placeholder" in the below commands with the name of your choice*
+    * Create a python virtual environment by running the command `python3 -m venv placeholder`
+    * Run the following command: `source placeholder/bin/activate`
+    * This will prepend that directory to your PATH, so that running python will invoke the environment’s Python interpreter and you can run installed scripts without having to use their full path
 
 7.
 
