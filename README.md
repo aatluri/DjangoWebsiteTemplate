@@ -1,2 +1,2 @@
-# AdarshPersonalWebsite
-This will serve as a template to quickly start working on a website using Django &amp; HTML/CSS/JS. We can clone this repo
+# adarshatluri
+This consists of the code for my personal website. I plan to also use it as a temlpate for building future websites . So i will be including detailed documentation which might be of help to folks who are learning or want a ready to go skeleton to begin with.
