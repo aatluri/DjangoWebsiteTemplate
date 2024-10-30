@@ -36,4 +36,10 @@ The purpose of this documentation is to help somebody who wants to build a websi
 2. [Django Docs](https://docs.djangoproject.com/en/5.1/intro/tutorial01/) <a id="djangodoc"></a>
 3. [Python Virtual Environment](https://docs.python.org/3/library/venv.html)
 3. [Sample Readme](https://gist.github.com/atcuno/3425484ac5cce5298932)
-4. Kill Processes running on port 8000 : `sudo lsof -t -i tcp:8000 | xargs kill -9`
+
+
+## Useful Information to understand this project
+1. If you see a message that says some process is already running on the configured port, then you can kill Processes running on port 8000 : `sudo lsof -t -i tcp:8000 | xargs kill -9` . Replace 8000 with the respective port number.
+2. Css - if you see color being set using the var funtion, then you can get more info at [CSS Var ](https://developer.mozilla.org/en-US/docs/Web/CSS/var)
+3.
+
